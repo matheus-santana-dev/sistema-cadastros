@@ -1,0 +1,24 @@
+# Python
+__pycache__/
+*.py[cod]
+
+# Editores
+.vscode/
+.idea/
+
+# Ambientes virtuais
+.venv/
+venv/
+env/
+
+# Backups
+backups/
+backup/
+*.bak
+*.backup
+*.backup.json
+
+# Arquivos temporários e compilação
+*.tmp
+build/
+dist/

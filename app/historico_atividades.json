@@ -1,0 +1,27 @@
+[
+    {
+        "data_hora": "03/11/2026 16:49:22",
+        "acao": "Cadastro restaurado",
+        "detalhes": "LUCAS"
+    },
+    {
+        "data_hora": "03/11/2026 16:49:18",
+        "acao": "Cadastro movido para a lixeira",
+        "detalhes": "ID 11 • LUCAS"
+    },
+    {
+        "data_hora": "03/11/2026 16:49:05",
+        "acao": "Idioma alterado",
+        "detalhes": "Português"
+    },
+    {
+        "data_hora": "03/11/2026 16:49:02",
+        "acao": "Idioma alterado",
+        "detalhes": "Español"
+    },
+    {
+        "data_hora": "03/11/2026 16:48:57",
+        "acao": "Idioma alterado",
+        "detalhes": "English"
+    }
+]

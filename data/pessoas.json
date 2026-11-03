@@ -1,0 +1,79 @@
+[
+    {
+        "id": 1,
+        "nome": "ENZO",
+        "idade": 20,
+        "sexo": "M",
+        "data_nascimento": "2006-02-10"
+    },
+    {
+        "id": 2,
+        "nome": "PEDRO",
+        "idade": 22,
+        "sexo": "M",
+        "data_nascimento": "2004-05-20"
+    },
+    {
+        "id": 3,
+        "nome": "CAMILLA",
+        "idade": 16,
+        "sexo": "F",
+        "data_nascimento": "2010-05-04"
+    },
+    {
+        "id": 4,
+        "nome": "MATHEUS",
+        "idade": 31,
+        "sexo": "M",
+        "data_nascimento": "1995-08-10"
+    },
+    {
+        "id": 5,
+        "nome": "MARINA",
+        "idade": 10,
+        "sexo": "F",
+        "data_nascimento": "2016-08-16"
+    },
+    {
+        "id": 6,
+        "nome": "VICTOR",
+        "idade": 21,
+        "sexo": "M",
+        "data_nascimento": "2004-12-13"
+    },
+    {
+        "id": 7,
+        "nome": "MELINA",
+        "idade": 11,
+        "sexo": "F",
+        "data_nascimento": "2015-06-27"
+    },
+    {
+        "id": 8,
+        "nome": "MARIA",
+        "idade": 72,
+        "sexo": "F",
+        "data_nascimento": "1954-03-06"
+    },
+    {
+        "id": 9,
+        "nome": "JOAO",
+        "idade": 64,
+        "sexo": "M",
+        "data_nascimento": "1962-09-07"
+    },
+    {
+        "id": 10,
+        "nome": "JOSÉ",
+        "idade": 82,
+        "sexo": "M",
+        "data_nascimento": "1943-11-29"
+    },
+    {
+        "id": 11,
+        "nome": "LUCAS",
+        "idade": 15,
+        "sexo": "M",
+        "data_nascimento": "2011-01-04"
+    }
+]
