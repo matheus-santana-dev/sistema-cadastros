@@ -38,7 +38,7 @@ Registro das operações realizadas no sistema, com informações de data e hor�
 
 Área para personalização das preferências do sistema, incluindo a seleção de idioma.
 
-![Configurações](screenshots/configuraçoes.png)
+![Configurações](screenshots/configuracoes.png)
 
 ## Funcionalidades
 
